@@ -1,0 +1,15 @@
+.bg-fundo{
+    background-image: url(fundoLogin.jpg);
+}
+
+.form-cadastro{
+    margin-top: 150px
+}
+
+.form-login{
+    max-width: 40%;
+}
+
+.btn-cadastro:hover{
+   background-color: springgreen;
+}
